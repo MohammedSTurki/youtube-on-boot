@@ -2,6 +2,8 @@
 
 termux-wake-lock
 
+sleep 5
+
 termux-toast -b  black -c white "جاري التحضير لتشغيل يوتيوب.. لحظات من فضلك"
 
 sleep 5
